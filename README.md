@@ -1,5 +1,4 @@
 # notas de linux
-Alguma coisa para o teste
 BIOS
 
 1. /Swap
