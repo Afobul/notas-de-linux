@@ -11,9 +11,9 @@ ls / - lista a totalidade do disco
 sudo apt update - atualiza a lista de pacotes
 sudo apt upgrade - dá update a todo o software instalado
 caminho relativo- Um caminho relativo descreve a localização de um arquivo ou diretório em relação ao diretório atual (também chamado de diretório de trabalho).É desde o sítio onde estou até onde eu quero ir
-caminho absoluto- Um caminho absoluto descreve a localização de um arquivo ou diretório a partir da raiz do sistema de arquivos.        
+caminho absoluto- Um caminho absoluto descreve a localização de um arquivo ou diretório a partir da raiz do sistema de arquivos.         
 rm -r teste/ - remove essa pasta
-Uma variável de ambiente é
+Uma variável de ambiente é 
 A diferença principal está na abordagem: pwd é um comando que mostra diretamente o diretório atual, enquanto echo $PWD exibe o valor da variável de ambiente $PWD, que armazena o mesmo caminho do diretório de trabalho atual.
 
 
@@ -22,11 +22,11 @@ boot=ficheiros iniciais para o arranque
 dev=dispositivos do computador
 etc=ficheiros de configuração
 /home=pasta de cada utilizador
-opt=
+opt=	
 root=pasta q é propriedade do linux
 var=
 
-comando para criar uma pasta dentro de outras= mkdir ./Documents/xpto/xpto2
+comando para criar uma pasta dentro de outras= 	mkdir ./Documents/xpto/xpto2
 
 r(read)=4
 w(write)=2
@@ -74,8 +74,12 @@ um ficheiro q tem um conjunto de comandos com logica para fzr um conjunto de tar
 
 Novo Módulo(Linux - Kernel e componentes do sistema):
 
-Kernel-é o nucleo do sistema, é um componente ...
+Kernel-é o nucleo do sistema(é o q fica entre o hardware e o software)
 O ambiente grafico do ubuntu é o "gnome"
-O flavour de linux mais utilizado:Android
+O flavour de linux mais utilizado:Android 
 
 Programas q usam como base uma kernel  e q depois em cima dessas serve de interface para o utilizador
+
+
+TCP-transporte controlado por protocolos
+gateway-é uma porta de saída.Manda pedidos para redes externas à nossa(é um equipamento híbrido)
